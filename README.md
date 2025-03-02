@@ -1,4 +1,4 @@
-# AssignmentCompVis
+# Assignment Task
 
 BaggageAI Computer Vision Hiring Assignment
 Case Study:- Image Processing 
